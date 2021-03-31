@@ -1,6 +1,6 @@
 Perry's Messaging Services
 
-REST API to manage Messages. Create, List, insert, edit, delete.
+REST API to manage Messages. Create, List, Send, Edit, Delete.
 
 Getting Started
 
